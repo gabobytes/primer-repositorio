@@ -2,3 +2,8 @@ Hola a todos, mi primer proyecto en Git.
 Mi correo es gabrielmeloarteaga@gmail.com
 Mi teléfono es 311618410
 Mi dirección es calle 20 # 7-46
+------------------------------
+
+Detalles:
+
+Versiones
